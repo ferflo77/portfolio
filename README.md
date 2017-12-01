@@ -1,8 +1,11 @@
-# portfolio
+# Portfolio
 
-First Version of PortFolio
+First version of my semester portFolio
 
 Tried  the following react feature:
  
 - React Modal
+
+
+
 
